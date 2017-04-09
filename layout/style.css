@@ -602,7 +602,7 @@ input[type="file"] > input[type="button"]::-moz-focus-inner {
 	margin-bottom:0;
 	height:auto;
 	min-height:0;
-	padding-top:60px;
+	padding-top:15px;
 	position:absolute;
 	z-index:9999;
 	width:100%;
@@ -2485,6 +2485,8 @@ h6 .sticker, .h6 .sticker {
 	right:90px;
 	opacity:1;
 }
+
+
 
 
 
