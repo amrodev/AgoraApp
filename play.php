@@ -13,290 +13,676 @@
         <div class="container" style="width: 1300px;">
 
            <div class="teams">             
+             
              <!-- Team 1 -->
              <div class="agora-t1"  align="center">
-               <h4 style="background-color : #790000;">Team 1</h4>
-                <div class="own_t1" align="center"> 
-                  <p align="">
-                    Stores
-                    <span style="background-color: #4c0202; padding: 5px 5px 5px 5px;">Small</span> 
-                    <span style="background-color: #e0aaaa; padding: 5px 5px 5px 5px;">5</span>
-                    <span style="margin-right:20px;"></span>
-                    <span style="background-color: #4c0202; padding: 5px 5px 5px 5px;">Medium</span>
-                    <span style="background-color: #e0aaaa; padding: 5px 5px 5px 5px;">3</span>
-                    <span style="margin-right:20px;"></span>
-                    <span style="background-color: #4c0202; padding: 5px 5px 5px 5px;">Large</span>
-                    <span style="background-color: #e0aaaa; padding: 5px 5px 5px 5px;">1</span>
-                  </p>                             
-                </div>
-
-                <div class="own_t1" align="center"> 
-                  <p>
-                    ADS                    
-                    <span style="background-color: #4c0202; padding: 5px 5px 5px 5px;">TV</span>
-                    <span style="background-color: #e0aaaa; padding: 5px 5px 5px 5px;">3</span>
-                    <span style="margin-right:20px;"></span>
-                    <span style="background-color: #4c0202; padding: 5px 5px 5px 5px;">Promo</span>
-                    <span style="background-color: #e0aaaa; padding: 5px 5px 5px 5px;">1</span>
-                    <span style="background-color: #4c0202; padding: 5px 5px 5px 5px;">Banner</span>
-                    <span style="background-color: #e0aaaa; padding: 5px 5px 5px 5px;">1</span>
-                  </p>                             
-                </div>
-                 <div class="own_t1" align="center"> 
-                  <p>
-                    Controlles                    
-                    <span style="background-color: #4c0202; padding: 5px 5px 5px 5px;">Areas</span>
-                    <span style="background-color: #e0aaaa; padding: 5px 5px 5px 5px;">3</span>
-                    <span style="margin-right:20px;"></span>
-                    <span style="background-color: #4c0202; padding: 5px 5px 5px 5px;">Territory</span>
-                    <span style="background-color: #e0aaaa; padding: 5px 5px 5px 5px;">1</span>
-                    <span style="background-color: #4c0202; padding: 5px 5px 5px 5px;">Partner</span>
-                    <span style="background-color: #e0aaaa; padding: 5px 5px 5px 5px;">1</span>
-                  </p>                             
-                </div>
-
-                <div class="own_t1" align="left">
-                  <table>
-                      <tr align="right">
-                          <td width="40"></td>
-                          <td width="85">$ Cash </td>
-                          <td width="85">$ Bank</td>
-                          <td width="105">HB</td>
-                          <td width="105">NPS</td>
-                      </tr>
-                      <tr align="right">
-                          <td>Start</td>
-                          <td>500</td>
-                          <td>50</td>
-                          <td>30</td>
-                          <td>10</td>
-                      </tr>
-                      <tr align="right">
-                          <td>Current</td>
-                          <td>1000</td>
-                          <td>70</td>
-                          <td>30</td>
-                          <td>20</td>
-                      </tr>
-                  </table>
-                </div>
-
-
-             </div>
-             <!-- end Team -->
-
-             <!-- Team 2 -->
-             <div class="agora-t2"  align="center">
-              <h4 style="background-color : #0d4f08;"> Team 2</h4>
-             
-              <div style="float:left; width: 75%;"> <div class="own_t2" style="float:left;">Stores</div>
-               <div class="own_t2" align="left">
-                   <p>                    
-                    <span style="background-color: #4a4015; padding: 5px 5px 5px 5px;">Small</span> 
-                    <span style="background-color: #cba90f; padding: 5px 5px 5px 5px;">1</span>
-                    <span style="background-color: #cba90f; padding: 5px 5px 5px 5px;">3K</span>
-                    <span style="background-color: #cba90f; padding: 5px 5px 5px 5px;">3</span>
-                    <span style="margin-right:5px;"></span>
-                    <span style="background-color: #4a4015; padding: 5px 5px 5px 5px;">Medium</span>
-                    <span style="background-color: #cba90f; padding: 5px 5px 5px 5px;">13</span>
-                    <span style="background-color: #cba90f; padding: 5px 5px 5px 5px;">5K</span>
-                    <span style="background-color: #cba90f; padding: 5px 5px 5px 5px;">5</span>
-                    <span style="margin-right:5px;"></span>
-                    <span style="background-color: #4a4015; padding: 5px 5px 5px 5px;">Large</span>
-                    <span style="background-color: #cba90f; padding: 5px 5px 5px 5px;">1</span>
-                    <span style="background-color: #cba90f; padding: 5px 5px 5px 5px;">8K</span>
-                    <span style="background-color: #cba90f; padding: 5px 5px 5px 5px;">8</span>                   
-                  </p>                  
-               </div>
-               
-              
-
-               <div class="own_t2" style="float:left;">Enterprise</div>
-               <div class="own_t2" align="right">
-                   <p>
-                    <span style="background-color: #4a4015; padding: 5px 5px 5px 5px;">Medium</span>
-                    <span style="background-color: #cba90f; padding: 5px 5px 5px 5px;">1</span>
-                    <span style="background-color: #cba90f; padding: 5px 5px 5px 5px;">700K</span>
-                    <span style="margin-right:20px;"></span>
-                    <span style="background-color: #4a4015; padding: 5px 5px 5px 5px;">Large</span>
-                    <span style="background-color: #cba90f; padding: 5px 5px 5px 5px;">1</span>
-                    <span style="background-color: #cba90f; padding: 5px 5px 5px 5px;">1000K</span>                   
-                  </p>                  
-               </div>
-
-               
-
-               <div class="own_t2" style="float:left;">ADS</div>
-               <div class="own_t2"  align="right"   >
-                   <p>                 
-                   
-                    <span style="background-color: #4a4015; padding: 5px 5px 5px 5px;">TV</span>
-                    <span style="background-color: #cba90f; padding: 5px 5px 5px 5px;">3</span>
-                    <span style="background-color: #cba90f; padding: 5px 5px 5px 5px;">400K</span>
-                    <span style="margin-right:20px;"></span>
-                    <span style="background-color: #4a4015; padding: 5px 5px 5px 5px;">Promo</span>
-                    <span style="background-color: #cba90f; padding: 5px 5px 5px 5px;">1</span>
-                    <span style="background-color: #cba90f; padding: 5px 5px 5px 5px;">200K</span>
-                    <span style="margin-right:20px;"></span>
-                    <span style="background-color: #4a4015; padding: 5px 5px 5px 5px;">Banner</span>
-                    <span style="background-color: #cba90f; padding: 5px 5px 5px 5px;">1</span>
-                    <span style="background-color: #cba90f; padding: 5px 5px 5px 5px;">50K</span>
+               <h4 style="background-color : #790000;">Team 1</h4>            
+               <table>
+                   <tr valign="top">
+                       <td>
+                           <table>
                     
-                  </p>                  
-               </div>
-
-               <div class="own_t2" style="float:left;">Map</div>
-               <div class="own_t2"  align="right">
-                   <p>
-                       <span style="background-color: #4a4015; padding: 5px 5px 5px 5px;">Partners</span>                                    
-                    <span style="background-color: #cba90f; padding: 5px 5px 5px 5px;">13</span>
-                    <span style="background-color: #cba90f; padding: 5px 5px 5px 5px;">51</span>
-                    <span style="margin-right:20px;"></span>
-                    <span style="background-color: #4a4015; padding: 5px 5px 5px 5px;">Areas</span>
-                    <span style="background-color: #cba90f; padding: 5px 5px 5px 5px;">1</span>
-                     <span style="margin-right:20px;"></span>
-                    <span style="background-color: #4a4015; padding: 5px 5px 5px 5px;">Territory </span>
-                    <span style="background-color: #cba90f; padding: 5px 5px 5px 5px;">1</span>
-                   
+                    <tr valign="top">
+                        <td>
+                            <div class="own_t1" align="center" style="padding:2px;">
+                                Stores</div>
+                        </td>
+                        <td>
+                            <div class="own_t1" align="left">
+                                <p>                    
+                                   <span style="background-color: #790000; padding: 5px 5px 5px 5px;">Small</span> 
+                                   <span style="background-color: #d5857f; padding: 5px 5px 5px 5px;">1</span>
+                                   <span style="background-color: #d5857f; padding: 5px 5px 5px 5px;">3K</span>
+                                   <span style="background-color: #d5857f; padding: 5px 5px 5px 5px;">3</span>
+                                   <span style="margin-right:5px;"></span>
+                                   <span style="background-color: #790000; padding: 5px 5px 5px 5px;">Medium</span>
+                                   <span style="background-color: #d5857f; padding: 5px 5px 5px 5px;">13</span>
+                                   <span style="background-color: #d5857f; padding: 5px 5px 5px 5px;">5K</span>
+                                   <span style="background-color: #d5857f; padding: 5px 5px 5px 5px;">5</span>
+                                   <span style="margin-right:5px;"></span>
+                                   <span style="background-color: #790000; padding: 5px 5px 5px 5px;">Large</span>
+                                   <span style="background-color: #d5857f; padding: 5px 5px 5px 5px;">1</span>
+                                   <span style="background-color: #d5857f; padding: 5px 5px 5px 5px;">8K</span>
+                                   <span style="background-color: #d5857f; padding: 5px 5px 5px 5px;">8</span>                   
+                                </p>  
+                            </div>
+                        </td>
+                        
+                    </tr>
+                    <tr valign="top">
+                        <td style="">
+                            <div class="own_t1" align="center" style="padding:2px;">
+                                Enterprise</div>
+                        </td>
+                        <td>
+                            <div class="own_t1" align="left">
+                                <p>                    
+                                   <span style="background-color: #790000; padding: 5px 5px 5px 5px;">Medium</span>
+                                   <span style="background-color: #d5857f; padding: 5px 5px 5px 5px;">1</span>
+                                   <span style="background-color: #d5857f; padding: 5px 5px 5px 5px;">700K</span>
+                                   <span style="margin-right:5px;"></span>
+                                   <span style="background-color: #790000; padding: 5px 5px 5px 5px;">Large</span>
+                                   <span style="background-color: #d5857f; padding: 5px 5px 5px 5px;">1</span>
+                                   <span style="background-color: #d5857f; padding: 5px 5px 5px 5px;">1000KK</span>
+                                </p>  
+                            </div>
+                        </td>
+                    </tr>
+                    <tr valign="top">
+                        <td style="">
+                            <div class="own_t1" align="center" style="padding:2px;">
+                                ADS</div>
+                        </td>
+                        <td>
+                            <div class="own_t1" align="left">
+                                <p>                    
+                                   <span style="background-color: #790000; padding: 5px 5px 5px 5px;">TV</span> 
+                                   <span style="background-color: #d5857f; padding: 5px 5px 5px 5px;">3</span>
+                                   <span style="background-color: #d5857f; padding: 5px 5px 5px 5px;">400K</span>
+                                   <span style="margin-right:5px;"></span>
+                                   <span style="background-color: #790000; padding: 5px 5px 5px 5px;">Promo</span>
+                                   <span style="background-color: #d5857f; padding: 5px 5px 5px 5px;">1</span>
+                                   <span style="background-color: #d5857f; padding: 5px 5px 5px 5px;">200K</span>
+                                   <span style="margin-right:5px;"></span>
+                                   <span style="background-color: #790000; padding: 5px 5px 5px 5px;">Banner</span>
+                                   <span style="background-color: #d5857f; padding: 5px 5px 5px 5px;">1</span>
+                                   <span style="background-color: #d5857f; padding: 5px 5px 5px 5px;">50K</span>
+                                </p>  
+                            </div>
+                        </td>
+                    </tr>
+                    <tr valign="top">
+                        <td style="">
+                            <div class="own_t1" align="center" style="padding:2px;">
+                                MAP</div>
+                        </td>
+                        <td>
+                            <div class="own_t1" align="left">
+                                <p>                    
+                                   <span style="background-color: #790000; padding: 5px 5px 5px 5px;">Partners</span> 
+                                   <span style="background-color: #d5857f; padding: 5px 5px 5px 5px;">13</span>
+                                   <span style="background-color: #d5857f; padding: 5px 5px 5px 5px;">51</span>
+                                   <span style="margin-right:5px;"></span>
+                                   <span style="background-color: #790000; padding: 5px 5px 5px 5px;">Areas</span>
+                                   <span style="background-color: #d5857f; padding: 5px 5px 5px 5px;">1</span>
+                                   <span style="margin-right:5px;"></span>
+                                   <span style="background-color: #790000; padding: 5px 5px 5px 5px;">Territory </span>
+                                   <span style="background-color: #d5857f; padding: 5px 5px 5px 5px;">1</span>                 
+                                </p>  
+                            </div>
+                        </td>
+                    </tr>
                     
-                  </p>                  
-               </div>
+                </table>
+                       </td>
 
 
-               <div class="own_t2" >
-                   <p>
-                   
-                    <table>
-                      <tr align="right">
-                          <td width="40"></td>
+                       <td>
+                           <table style="background-color: #790000; padding:3px; border-radius: 8px;">
+                               
+                               <tr>
+                                   <td  style="padding: 3px 5px 5px 5px">1000</td>
+                                   <td>100000</td>
+                               </tr>
+                               <tr>
+                                   <td  style="padding: 3px 5px 5px 5px">1000</td>
+                                   <td>100000</td>
+                               </tr>
+                               <tr>
+                                   <td  style="padding: 3px 5px 5px 5px">1000</td>
+                                   <td>100000</td>
+                               </tr>
+                               <tr>
+                                   <td  style="padding: 3px 5px 5px 5px">1000</td>
+                                   <td>100000</td>
+                               </tr>
+                               <tr style="background-color: #d5857f; border-radius: 8px;">
+                                   <td  style="padding: 3px 5px 5px 5px">COST</td>
+                                   <td>BENFITS</td>
+                               </tr>
+                           </table>
+                       </td>
+                   </tr>
+               </table>
+                <br>
+                   <table>
+                       <tr>
+                           <td>
+                               <table  class="own_t1">
+                      <tr align="center">
+                          <td width="60" style="background-color: #d5857f;"></td>
                           <td width="85">$ Cash </td>
                           <td width="85">$ Bank</td>
                           <td width="105">HB</td>
                           <td width="90">NPS</td>
                       </tr>
-                      <tr align="right">
-                          <td>Start</td>
+                      <tr align="center">
+                          <td style="background-color: #d5857f">Start</td>
                           <td>500</td>
                           <td>50</td>
                           <td>30</td>
                           <td>10</td>
                       </tr>
-                      <tr align="right">
-                          <td>Current</td>
+                      <tr align="center">
+                          <td style="background-color: #d5857f">Current</td>
                           <td>1000</td>
                           <td>70</td>
                           <td>30</td>
                           <td>20</td>
-                      </tr>
-                  </table>
-                  </p>                  
-               </div></div>
-              <div stle="float:right; "><p style="float: right;
-    background-color: #0d4f08;
-    border-radius: 6px;
-    box-shadow: 0 0 17px 0px black;
-    margin-right: 3px;
-}">
-                  <span style="float:left; padding:1px; background-color:#0d4f08; margin-right:5px;">1000000</span><span style="padding:1px;  background-color:#0d4f08;">1000000</span><br><br>
-                  <span style="float:left; padding:1px; background-color:#0d4f08; margin-right:5px;">1000000</span><span style="padding:1px;  background-color:#0d4f08;">1000000</span><br><br>
-                  <span style="float:left; padding:1px; background-color:#0d4f08; margin-right:5px;">1000000</span><span style="padding:1px;  background-color:#0d4f08;">1000000</span><br><br>
-                  <span style="float:left; padding:1px; background-color:#0d4f08; margin-right:5px;">1000000</span><span style="padding:1px;  background-color:#0d4f08;">1000000</span><br><br>
-              </div>
-
-               
-               
-
+                      </tr>                 
+                  </table> 
+                           </td>
+                           <td><button style="width: 150px; height: 60px; background-color:#d5857f">PLAY</button></td>
+                       </tr>
+                   </table>                   
              </div>
              <!-- end Team -->
 
-             <!-- Team 3 -->
+             <!-- Team 2 -->
+             <div class="agora-t2"  align="center">
+               <h4 style="background-color : #05501b;">Team 2</h4>            
+               <table>
+                   <tr valign="top">
+                       <td>
+                           <table>
+                    
+                    <tr valign="top">
+                        <td>
+                            <div class="own_t2" align="center" style="padding:2px;">
+                                Stores</div>
+                        </td>
+                        <td>
+                            <div class="own_t2" align="left">
+                                <p>                    
+                                   <span style="background-color: #148936; padding: 5px 5px 5px 5px;">Small</span> 
+                                   <span style="background-color: #b4deaa; padding: 5px 5px 5px 5px;">1</span>
+                                   <span style="background-color: #b4deaa; padding: 5px 5px 5px 5px;">3K</span>
+                                   <span style="background-color: #b4deaa; padding: 5px 5px 5px 5px;">3</span>
+                                   <span style="margin-right:5px;"></span>
+                                   <span style="background-color: #148936; padding: 5px 5px 5px 5px;">Medium</span>
+                                   <span style="background-color: #b4deaa; padding: 5px 5px 5px 5px;">13</span>
+                                   <span style="background-color: #b4deaa; padding: 5px 5px 5px 5px;">5K</span>
+                                   <span style="background-color: #b4deaa; padding: 5px 5px 5px 5px;">5</span>
+                                   <span style="margin-right:5px;"></span>
+                                   <span style="background-color: #148936; padding: 5px 5px 5px 5px;">Large</span>
+                                   <span style="background-color: #b4deaa; padding: 5px 5px 5px 5px;">1</span>
+                                   <span style="background-color: #b4deaa; padding: 5px 5px 5px 5px;">8K</span>
+                                   <span style="background-color: #b4deaa; padding: 5px 5px 5px 5px;">8</span>                   
+                                </p>  
+                            </div>
+                        </td>
+                        
+                    </tr>
+                    <tr valign="top">
+                        <td style="">
+                            <div class="own_t2" align="center" style="padding:2px;">
+                                Enterprise</div>
+                        </td>
+                        <td>
+                            <div class="own_t2" align="left">
+                                <p>                    
+                                   <span style="background-color: #148936; padding: 5px 5px 5px 5px;">Medium</span>
+                                   <span style="background-color: #b4deaa; padding: 5px 5px 5px 5px;">1</span>
+                                   <span style="background-color: #b4deaa; padding: 5px 5px 5px 5px;">700K</span>
+                                   <span style="margin-right:5px;"></span>
+                                   <span style="background-color: #148936; padding: 5px 5px 5px 5px;">Large</span>
+                                   <span style="background-color: #b4deaa; padding: 5px 5px 5px 5px;">1</span>
+                                   <span style="background-color: #b4deaa; padding: 5px 5px 5px 5px;">1000KK</span>
+                                </p>  
+                            </div>
+                        </td>
+                    </tr>
+                    <tr valign="top">
+                        <td style="">
+                            <div class="own_t2" align="center" style="padding:2px;">
+                                ADS</div>
+                        </td>
+                        <td>
+                            <div class="own_t2" align="left">
+                                <p>                    
+                                   <span style="background-color: #148936; padding: 5px 5px 5px 5px;">TV</span> 
+                                   <span style="background-color: #b4deaa; padding: 5px 5px 5px 5px;">3</span>
+                                   <span style="background-color: #b4deaa; padding: 5px 5px 5px 5px;">400K</span>
+                                   <span style="margin-right:5px;"></span>
+                                   <span style="background-color: #148936; padding: 5px 5px 5px 5px;">Promo</span>
+                                   <span style="background-color: #b4deaa; padding: 5px 5px 5px 5px;">1</span>
+                                   <span style="background-color: #b4deaa; padding: 5px 5px 5px 5px;">200K</span>
+                                   <span style="margin-right:5px;"></span>
+                                   <span style="background-color: #148936; padding: 5px 5px 5px 5px;">Banner</span>
+                                   <span style="background-color: #b4deaa; padding: 5px 5px 5px 5px;">1</span>
+                                   <span style="background-color: #b4deaa; padding: 5px 5px 5px 5px;">50K</span>
+                                </p>  
+                            </div>
+                        </td>
+                    </tr>
+                    <tr valign="top">
+                        <td style="">
+                            <div class="own_t2" align="center" style="padding:2px;">
+                                MAP</div>
+                        </td>
+                        <td>
+                            <div class="own_t2" align="left">
+                                <p>                    
+                                   <span style="background-color: #148936; padding: 5px 5px 5px 5px;">Partners</span> 
+                                   <span style="background-color: #b4deaa; padding: 5px 5px 5px 5px;">13</span>
+                                   <span style="background-color: #b4deaa; padding: 5px 5px 5px 5px;">51</span>
+                                   <span style="margin-right:5px;"></span>
+                                   <span style="background-color: #148936; padding: 5px 5px 5px 5px;">Areas</span>
+                                   <span style="background-color: #b4deaa; padding: 5px 5px 5px 5px;">1</span>
+                                   <span style="margin-right:5px;"></span>
+                                   <span style="background-color: #148936; padding: 5px 5px 5px 5px;">Territory </span>
+                                   <span style="background-color: #b4deaa; padding: 5px 5px 5px 5px;">1</span>                 
+                                </p>  
+                            </div>
+                        </td>
+                    </tr>
+                    
+                </table>
+                       </td>
+
+
+                       <td>
+                           <table style="background-color: #148936; padding:3px; border-radius: 8px;">
+                               
+                               <tr>
+                                   <td  style="padding: 3px 5px 5px 5px">1000</td>
+                                   <td>100000</td>
+                               </tr>
+                               <tr>
+                                   <td  style="padding: 3px 5px 5px 5px">1000</td>
+                                   <td>100000</td>
+                               </tr>
+                               <tr>
+                                   <td  style="padding: 3px 5px 5px 5px">1000</td>
+                                   <td>100000</td>
+                               </tr>
+                               <tr>
+                                   <td  style="padding: 3px 5px 5px 5px">1000</td>
+                                   <td>100000</td>
+                               </tr>
+                               <tr style="background-color: #b4deaa; border-radius: 8px;">
+                                   <td  style="padding: 3px 5px 5px 5px">COST</td>
+                                   <td>BENFITS</td>
+                               </tr>
+                           </table>
+                       </td>
+                   </tr>
+               </table>
+                <br>
+                   <table>
+                       <tr>
+                           <td>
+                               <table  class="own_t2">
+                      <tr align="center">
+                          <td width="60" style="background-color: #b4deaa;"></td>
+                          <td width="85">$ Cash </td>
+                          <td width="85">$ Bank</td>
+                          <td width="105">HB</td>
+                          <td width="90">NPS</td>
+                      </tr>
+                      <tr align="center">
+                          <td style="background-color: #b4deaa">Start</td>
+                          <td>500</td>
+                          <td>50</td>
+                          <td>30</td>
+                          <td>10</td>
+                      </tr>
+                      <tr align="center">
+                          <td style="background-color: #b4deaa">Current</td>
+                          <td>1000</td>
+                          <td>70</td>
+                          <td>30</td>
+                          <td>20</td>
+                      </tr>                 
+                  </table> 
+                           </td>
+                           <td><button style="width: 150px; height: 60px; background-color:#b4deaa">PLAY</button></td>
+                       </tr>
+                   </table>                   
+             </div>
+             <!-- end Team -->
+
+
+
+
+              <!-- Team 3 -->
              <div class="agora-t3"  align="center">
-               <h4 style="background-color : #8b740c;">Team 3</h4>
-               <div class="own_t3" align="center"> 
-                  <p>
-                    Stores
-                    <span style="background-color: #4a4015; padding: 5px 5px 5px 5px;">Small</span> 
-                    <span style="background-color: #cba90f; padding: 5px 5px 5px 5px;">5</span>
-                    <span style="margin-right:20px;"></span>
-                    <span style="background-color: #4a4015; padding: 5px 5px 5px 5px;">Medium</span>
-                    <span style="background-color: #cba90f; padding: 5px 5px 5px 5px;">3</span>
-                    <span style="margin-right:20px;"></span>
-                    <span style="background-color: #4a4015; padding: 5px 5px 5px 5px;">Large</span>
-                    <span style="background-color: #cba90f; padding: 5px 5px 5px 5px;">1</span>
-                  </p>                             
-                </div>
+               <h4 style="background-color : #032158;">Team 3</h4>            
+               <table>
+                   <tr valign="top">
+                       <td>
+                           <table>
+                    
+                    <tr valign="top">
+                        <td>
+                            <div class="own_t3" align="center" style="padding:2px;">
+                                Stores</div>
+                        </td>
+                        <td>
+                            <div class="own_t3" align="left">
+                                <p>                    
+                                   <span style="background-color: #184ba8; padding: 5px 5px 5px 5px;">Small</span> 
+                                   <span style="background-color: #8fb2f2; padding: 5px 5px 5px 5px;">1</span>
+                                   <span style="background-color: #8fb2f2; padding: 5px 5px 5px 5px;">3K</span>
+                                   <span style="background-color: #8fb2f2; padding: 5px 5px 5px 5px;">3</span>
+                                   <span style="margin-right:5px;"></span>
+                                   <span style="background-color: #184ba8; padding: 5px 5px 5px 5px;">Medium</span>
+                                   <span style="background-color: #8fb2f2; padding: 5px 5px 5px 5px;">13</span>
+                                   <span style="background-color: #8fb2f2; padding: 5px 5px 5px 5px;">5K</span>
+                                   <span style="background-color: #8fb2f2; padding: 5px 5px 5px 5px;">5</span>
+                                   <span style="margin-right:5px;"></span>
+                                   <span style="background-color: #184ba8; padding: 5px 5px 5px 5px;">Large</span>
+                                   <span style="background-color: #8fb2f2; padding: 5px 5px 5px 5px;">1</span>
+                                   <span style="background-color: #8fb2f2; padding: 5px 5px 5px 5px;">8K</span>
+                                   <span style="background-color: #8fb2f2; padding: 5px 5px 5px 5px;">8</span>                   
+                                </p>  
+                            </div>
+                        </td>
+                        
+                    </tr>
+                    <tr valign="top">
+                        <td style="">
+                            <div class="own_t3" align="center" style="padding:2px;">
+                                Enterprise</div>
+                        </td>
+                        <td>
+                            <div class="own_t3" align="left">
+                                <p>                    
+                                   <span style="background-color: #184ba8; padding: 5px 5px 5px 5px;">Medium</span>
+                                   <span style="background-color: #8fb2f2; padding: 5px 5px 5px 5px;">1</span>
+                                   <span style="background-color: #8fb2f2; padding: 5px 5px 5px 5px;">700K</span>
+                                   <span style="margin-right:5px;"></span>
+                                   <span style="background-color: #184ba8; padding: 5px 5px 5px 5px;">Large</span>
+                                   <span style="background-color: #8fb2f2; padding: 5px 5px 5px 5px;">1</span>
+                                   <span style="background-color: #8fb2f2; padding: 5px 5px 5px 5px;">1000KK</span>
+                                </p>  
+                            </div>
+                        </td>
+                    </tr>
+                    <tr valign="top">
+                        <td style="">
+                            <div class="own_t3" align="center" style="padding:2px;">
+                                ADS</div>
+                        </td>
+                        <td>
+                            <div class="own_t3" align="left">
+                                <p>                    
+                                   <span style="background-color: #184ba8; padding: 5px 5px 5px 5px;">TV</span> 
+                                   <span style="background-color: #8fb2f2; padding: 5px 5px 5px 5px;">3</span>
+                                   <span style="background-color: #8fb2f2; padding: 5px 5px 5px 5px;">400K</span>
+                                   <span style="margin-right:5px;"></span>
+                                   <span style="background-color: #184ba8; padding: 5px 5px 5px 5px;">Promo</span>
+                                   <span style="background-color: #8fb2f2; padding: 5px 5px 5px 5px;">1</span>
+                                   <span style="background-color: #8fb2f2; padding: 5px 5px 5px 5px;">200K</span>
+                                   <span style="margin-right:5px;"></span>
+                                   <span style="background-color: #184ba8; padding: 5px 5px 5px 5px;">Banner</span>
+                                   <span style="background-color: #8fb2f2; padding: 5px 5px 5px 5px;">1</span>
+                                   <span style="background-color: #8fb2f2; padding: 5px 5px 5px 5px;">50K</span>
+                                </p>  
+                            </div>
+                        </td>
+                    </tr>
+                    <tr valign="top">
+                        <td style="">
+                            <div class="own_t3" align="center" style="padding:2px;">
+                                MAP</div>
+                        </td>
+                        <td>
+                            <div class="own_t3" align="left">
+                                <p>                    
+                                   <span style="background-color: #184ba8; padding: 5px 5px 5px 5px;">Partners</span> 
+                                   <span style="background-color: #8fb2f2; padding: 5px 5px 5px 5px;">13</span>
+                                   <span style="background-color: #8fb2f2; padding: 5px 5px 5px 5px;">51</span>
+                                   <span style="margin-right:5px;"></span>
+                                   <span style="background-color: #184ba8; padding: 5px 5px 5px 5px;">Areas</span>
+                                   <span style="background-color: #8fb2f2; padding: 5px 5px 5px 5px;">1</span>
+                                   <span style="margin-right:5px;"></span>
+                                   <span style="background-color: #184ba8; padding: 5px 5px 5px 5px;">Territory </span>
+                                   <span style="background-color: #8fb2f2; padding: 5px 5px 5px 5px;">1</span>                 
+                                </p>  
+                            </div>
+                        </td>
+                    </tr>
+                    
+                </table>
+                       </td>
 
-                <div class="own_t3" align="left">
-                  <table>
-                      <tr align="right">
-                          <td width="40"></td>
+
+                       <td>
+                           <table style="background-color: #184ba8; padding:3px; border-radius: 8px;">
+                               
+                               <tr>
+                                   <td  style="padding: 3px 5px 5px 5px">1000</td>
+                                   <td>100000</td>
+                               </tr>
+                               <tr>
+                                   <td  style="padding: 3px 5px 5px 5px">1000</td>
+                                   <td>100000</td>
+                               </tr>
+                               <tr>
+                                   <td  style="padding: 3px 5px 5px 5px">1000</td>
+                                   <td>100000</td>
+                               </tr>
+                               <tr>
+                                   <td  style="padding: 3px 5px 5px 5px">1000</td>
+                                   <td>100000</td>
+                               </tr>
+                               <tr style="background-color: #8fb2f2; border-radius: 8px;">
+                                   <td  style="padding: 3px 5px 5px 5px">COST</td>
+                                   <td>BENFITS</td>
+                               </tr>
+                           </table>
+                       </td>
+                   </tr>
+               </table>
+                <br>
+                   <table>
+                       <tr>
+                           <td>
+                               <table  class="own_t3">
+                      <tr align="center">
+                          <td width="60" style="background-color: #8fb2f2;"></td>
                           <td width="85">$ Cash </td>
                           <td width="85">$ Bank</td>
                           <td width="105">HB</td>
-                          <td width="105">NPS</td>
+                          <td width="90">NPS</td>
                       </tr>
-                      <tr align="right">
-                          <td>Start</td>
+                      <tr align="center">
+                          <td style="background-color: #8fb2f2">Start</td>
                           <td>500</td>
                           <td>50</td>
                           <td>30</td>
                           <td>10</td>
                       </tr>
-                      <tr align="right">
-                          <td>Current</td>
+                      <tr align="center">
+                          <td style="background-color: #8fb2f2">Current</td>
                           <td>1000</td>
                           <td>70</td>
                           <td>30</td>
                           <td>20</td>
-                      </tr>
-                  </table>
-                </div>
+                      </tr>                 
+                  </table> 
+                           </td>
+                           <td><button style="width: 150px; height: 60px; background-color:#8fb2f2">PLAY</button></td>
+                       </tr>
+                   </table>                   
              </div>
              <!-- end Team -->
 
-             <!-- Team 4 -->
+
+
+                           <!-- Team 4 -->
              <div class="agora-t4"  align="center">
-               <h4 style="background-color : #06245e;">Team 4</h4>
-               <div class="own_t4" align="center"> 
-                  <p>
-                    Stores
-                    <span style="background-color: #000a1c; padding: 5px 5px 5px 5px;">Small</span> 
-                    <span style="background-color: #90aaf0; padding: 5px 5px 5px 5px;">5</span>
-                    <span style="margin-right:20px;"></span>
-                    <span style="background-color: #000a1c; padding: 5px 5px 5px 5px;">Medium</span>
-                    <span style="background-color: #90aaf0; padding: 5px 5px 5px 5px;">3</span>
-                    <span style="margin-right:20px;"></span>
-                    <span style="background-color: #000a1c; padding: 5px 5px 5px 5px;">Large</span>
-                    <span style="background-color: #90aaf0; padding: 5px 5px 5px 5px;">1</span>
-                  </p>                             
-                </div>
-                <div class="own_t4" align="left">
-                  <table>
-                      <tr align="right">
-                          <td width="40"></td>
+               <h4 style="background-color : rgb(63, 63, 2);">Team 4</h4>            
+               <table>
+                   <tr valign="top">
+                       <td>
+                           <table>
+                    
+                    <tr valign="top">
+                        <td>
+                            <div class="own_t4" align="center" style="padding:2px;">
+                                Stores</div>
+                        </td>
+                        <td>
+                            <div class="own_t4" align="left">
+                                <p>                    
+                                   <span style="background-color: rgb(180, 172, 5); padding: 5px 5px 5px 5px;">Small</span> 
+                                   <span style="background-color: #d7de76; padding: 5px 5px 5px 5px;">1</span>
+                                   <span style="background-color: #d7de76; padding: 5px 5px 5px 5px;">3K</span>
+                                   <span style="background-color: #d7de76; padding: 5px 5px 5px 5px;">3</span>
+                                   <span style="margin-right:5px;"></span>
+                                   <span style="background-color: rgb(180, 172, 5); padding: 5px 5px 5px 5px;">Medium</span>
+                                   <span style="background-color: #d7de76; padding: 5px 5px 5px 5px;">13</span>
+                                   <span style="background-color: #d7de76; padding: 5px 5px 5px 5px;">5K</span>
+                                   <span style="background-color: #d7de76; padding: 5px 5px 5px 5px;">5</span>
+                                   <span style="margin-right:5px;"></span>
+                                   <span style="background-color: rgb(180, 172, 5); padding: 5px 5px 5px 5px;">Large</span>
+                                   <span style="background-color: #d7de76; padding: 5px 5px 5px 5px;">1</span>
+                                   <span style="background-color: #d7de76; padding: 5px 5px 5px 5px;">8K</span>
+                                   <span style="background-color: #d7de76; padding: 5px 5px 5px 5px;">8</span>                   
+                                </p>  
+                            </div>
+                        </td>
+                        
+                    </tr>
+                    <tr valign="top">
+                        <td style="">
+                            <div class="own_t4" align="center" style="padding:2px;">
+                                Enterprise</div>
+                        </td>
+                        <td>
+                            <div class="own_t4" align="left">
+                                <p>                    
+                                   <span style="background-color: rgb(180, 172, 5); padding: 5px 5px 5px 5px;">Medium</span>
+                                   <span style="background-color: #d7de76; padding: 5px 5px 5px 5px;">1</span>
+                                   <span style="background-color: #d7de76; padding: 5px 5px 5px 5px;">700K</span>
+                                   <span style="margin-right:5px;"></span>
+                                   <span style="background-color: rgb(180, 172, 5); padding: 5px 5px 5px 5px;">Large</span>
+                                   <span style="background-color: #d7de76; padding: 5px 5px 5px 5px;">1</span>
+                                   <span style="background-color: #d7de76; padding: 5px 5px 5px 5px;">1000KK</span>
+                                </p>  
+                            </div>
+                        </td>
+                    </tr>
+                    <tr valign="top">
+                        <td style="">
+                            <div class="own_t4" align="center" style="padding:2px;">
+                                ADS</div>
+                        </td>
+                        <td>
+                            <div class="own_t4" align="left">
+                                <p>                    
+                                   <span style="background-color: rgb(180, 172, 5); padding: 5px 5px 5px 5px;">TV</span> 
+                                   <span style="background-color: #d7de76; padding: 5px 5px 5px 5px;">3</span>
+                                   <span style="background-color: #d7de76; padding: 5px 5px 5px 5px;">400K</span>
+                                   <span style="margin-right:5px;"></span>
+                                   <span style="background-color: rgb(180, 172, 5); padding: 5px 5px 5px 5px;">Promo</span>
+                                   <span style="background-color: #d7de76; padding: 5px 5px 5px 5px;">1</span>
+                                   <span style="background-color: #d7de76; padding: 5px 5px 5px 5px;">200K</span>
+                                   <span style="margin-right:5px;"></span>
+                                   <span style="background-color: rgb(180, 172, 5); padding: 5px 5px 5px 5px;">Banner</span>
+                                   <span style="background-color: #d7de76; padding: 5px 5px 5px 5px;">1</span>
+                                   <span style="background-color: #d7de76; padding: 5px 5px 5px 5px;">50K</span>
+                                </p>  
+                            </div>
+                        </td>
+                    </tr>
+                    <tr valign="top">
+                        <td style="">
+                            <div class="own_t4" align="center" style="padding:2px;">
+                                MAP</div>
+                        </td>
+                        <td>
+                            <div class="own_t4" align="left">
+                                <p>                    
+                                   <span style="background-color: rgb(180, 172, 5); padding: 5px 5px 5px 5px;">Partners</span> 
+                                   <span style="background-color: #d7de76; padding: 5px 5px 5px 5px;">13</span>
+                                   <span style="background-color: #d7de76; padding: 5px 5px 5px 5px;">51</span>
+                                   <span style="margin-right:5px;"></span>
+                                   <span style="background-color: rgb(180, 172, 5); padding: 5px 5px 5px 5px;">Areas</span>
+                                   <span style="background-color: #d7de76; padding: 5px 5px 5px 5px;">1</span>
+                                   <span style="margin-right:5px;"></span>
+                                   <span style="background-color: rgb(180, 172, 5); padding: 5px 5px 5px 5px;">Territory </span>
+                                   <span style="background-color: #d7de76; padding: 5px 5px 5px 5px;">1</span>                 
+                                </p>  
+                            </div>
+                        </td>
+                    </tr>
+                    
+                </table>
+                       </td>
+
+
+                       <td>
+                           <table style="background-color: rgb(180, 172, 5); padding:3px; border-radius: 8px;">
+                               
+                               <tr>
+                                   <td  style="padding: 3px 5px 5px 5px">1000</td>
+                                   <td>100000</td>
+                               </tr>
+                               <tr>
+                                   <td  style="padding: 3px 5px 5px 5px">1000</td>
+                                   <td>100000</td>
+                               </tr>
+                               <tr>
+                                   <td  style="padding: 3px 5px 5px 5px">1000</td>
+                                   <td>100000</td>
+                               </tr>
+                               <tr>
+                                   <td  style="padding: 3px 5px 5px 5px">1000</td>
+                                   <td>100000</td>
+                               </tr>
+                               <tr style="background-color: #d7de76; border-radius: 8px;">
+                                   <td  style="padding: 3px 5px 5px 5px">COST</td>
+                                   <td>BENFITS</td>
+                               </tr>
+                           </table>
+                       </td>
+                   </tr>
+               </table>
+                <br>
+                   <table>
+                       <tr>
+                           <td>
+                               <table  class="own_t4">
+                      <tr align="center">
+                          <td width="60" style="background-color: #d7de76;"></td>
                           <td width="85">$ Cash </td>
                           <td width="85">$ Bank</td>
                           <td width="105">HB</td>
-                          <td width="105">NPS</td>
+                          <td width="90">NPS</td>
                       </tr>
-                      <tr align="right">
-                          <td>Start</td>
+                      <tr align="center">
+                          <td style="background-color: #d7de76">Start</td>
                           <td>500</td>
                           <td>50</td>
                           <td>30</td>
                           <td>10</td>
                       </tr>
-                      <tr align="right">
-                          <td>Current</td>
+                      <tr align="center">
+                          <td style="background-color: #d7de76">Current</td>
                           <td>1000</td>
                           <td>70</td>
                           <td>30</td>
                           <td>20</td>
-                      </tr>
-                  </table>
-                </div>
+                      </tr>                 
+                  </table> 
+                           </td>
+                           <td><button style="width: 150px; height: 60px; background-color:#d7de76">PLAY</button></td>
+                       </tr>
+                   </table>                   
              </div>
              <!-- end Team -->
+
+         
+
+         
+
+
+
+
+
            </div>   
         </div>
 
